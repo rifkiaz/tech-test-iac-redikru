@@ -87,22 +87,3 @@ Sebelum menjalankan Terraform, pastikan telah mempersiapkan:
 ## Output yang Dihasilkan
 
 Setelah menjalankan `terraform apply`, Anda akan melihat output berupa IP publik dari instance EC2 yang dibuat.
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, silakan lakukan langkah-langkah berikut:
-
-1. Fork repositori ini.
-2. Buat branch baru (`git checkout -b fitur-kontribusi`).
-3. Lakukan perubahan yang diperlukan.
-4. Commit perubahan Anda (`git commit -am 'Menambahkan fitur baru'`).
-5. Push ke branch Anda (`git push origin fitur-kontribusi`).
-6. Buat pull request baru.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
-
----
-
-Silakan sesuaikan README ini dengan detail spesifik dari proyek infrastruktur sebagai kode Anda. Pastikan untuk mencantumkan semua prasyarat, langkah-langkah penggunaan, dan informasi lain yang mungkin diperlukan oleh pengguna atau kontributor potensial.
